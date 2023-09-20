@@ -20,7 +20,6 @@ import com.example.mvc_pattern.model.TotalPrice;
 
 public class MainActivity extends AppCompatActivity {
     TextView count, total_result, latte_count;
-    Button btm;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
